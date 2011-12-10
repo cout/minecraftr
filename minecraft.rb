@@ -1,4 +1,5 @@
 # http://www.wiki.vg/Protocol
+# http://www.wiki.vg/Pre-release_protocol
 
 class Message
   class KeepAlive < Message
